@@ -20,14 +20,6 @@
 <!--Intro end-->
 
 <!--- trophy (start) -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naknc&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
-  </a>
-</p>
-<!--- trophy (start) -->
-
-<!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=naknc&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&theme=darkhub" alt="TROPHY" />
