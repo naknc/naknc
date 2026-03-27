@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-```yaml
+``yaml
 name: Nihan Akinci
 role: Senior Business Analyst
 background: Computer Engineering
