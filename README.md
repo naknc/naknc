@@ -1,45 +1,71 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">✨ Hey, I'm Nihan Akinci ✨</h1>
+<h3 align="center">Senior Business Analyst | Tech Explorer | Turning business needs into smart solutions</h3>
 
-<!--h1 without bottom border-->
-<h2 align="center">👋 Hello there, 🚀 Welcome to my GitHub profile! 🛠️ <img src="https://komarev.com/ghpvc/?username=naknc&label=Profile%20views&color=0e75b6&style=flat" alt="naknc" /></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=Business+Analysis+%7C+Data+%7C+APIs+%7C+Agile+%7C+AI;Making+complex+things+clear+and+actionable;Always+learning%2C+always+improving" alt="Typing SVG" />
+</p>
 
-<!--Introduction start-->
-🛢️ I'm someone who's eager to learn and explore the worlds of Business Analysis and DevOps. My journey involves understanding projects, solving problems efficiently, and gaining knowledge in engineering. In the dynamic realm of DevOps, I'm an enthusiast, committed to contributing and learning.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naknc&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/naknc?label=Followers&style=for-the-badge&color=38bdf8" alt="followers" />
+  <img src="https://img.shields.io/github/stars/naknc?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="stars" />
+</p>
 
-🔧 I'm building up my skills with DevOps tools like Kubernetes, Docker, Jira, Git, GitHub, Firebase, Windows, macOS, Visual Studio Code, and Postman. I'm also getting familiar with project management and agile methods like Kanban, Scrum, and Agile. I'm working on data management and analysis too, including PostgreSQL, requirements analysis, information gathering, technical design, user experience, and CRM (Customer Relationship Management).
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff4da6,30:c026d3,60:7c3aed,100:38bdf8&text=Nihan%20Akinci&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Senior%20Business%20Analyst%20%7C%20Tech%20Explorer%20%7C%20AI%20Curious&descAlignY=58&animation=twinkling" alt="banner" />
+</p>
 
-🌐 In both Business Analysis and DevOps, I'm dedicated to contributing and advancing my skills. I work with teams to set up robust CI/CD pipelines for smooth and secure software releases. I'm a believer in automation, monitoring, and quick feedback to help organizations succeed.
+---
 
-📚 Beyond learning, I'm excited to share insights and help the community. My goal is to make tech less confusing.
+## 💫 About Me
 
-🔗 Connect with me to discuss DevOps, business analysis, and technology. Let's learn and grow together. We can make a future where project understanding, problem-solving, and software improvement come naturally. Let's build a world where development and operations work together for great software.
+```yaml
+name: Nihan Akinci
+role: Senior Business Analyst
+background: Computer Engineering
+focus:
+  - Business Analysis
+  - Requirement Gathering
+  - Data & Reporting
+  - API Analysis
+  - Process Improvement
+  - Agile Collaboration
+interests:
+  - Artificial Intelligence
+  - Product Thinking
+  - Emerging Technologies
+  - System Integrations
+I enjoy bridging the gap between business and technology.
+My favorite part of the job is turning complex requirements, messy processes, and scattered expectations into clear, structured, and practical solutions.
 
-📫 Feel free to contact me here on GitHub or find me on LinkedIn. Let's start this journey of learning and growth together! 🚀</br>
-
-<!--Intro end-->
-
-</p>        
-<!--- stats (end) -->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-  <div align="center">
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-    <!-- Add more icons for the other technologies you mentioned -->
-    <!-- Example: <code><img width="50" src="[Technology-Icon-URL]" alt="Technology-Name" title="Technology-Name"/></code> -->
-</div>
-</div>
-<!--tech stack icons-->
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+⚡ Tech Playground
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,docker,kubernetes,git,github,vscode,postgres" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/Agile-22c55e?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scrum-8b5cf6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Business%20Analysis-e11d48?style=for-the-badge" /> </p>
+🚀 Skill Levels
+<p align="center"> <img src="https://img.shields.io/badge/Business%20Analysis-90%25-ff4da6?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL%20%26%20Reporting-80%25-0ea5e9?style=for-the-badge" /> <img src="https://img.shields.io/badge/API%20Analysis-78%25-22c55e?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agile%20%26%20Scrum-82%25-a855f7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-65%25-f59e0b?style=for-the-badge" /> <img src="https://img.shields.io/badge/Java-55%25-ef4444?style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-58%25-3b82f6?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20Curiosity-75%25-14b8a6?style=for-the-badge" /> </p>
+📊 GitHub Energy
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naknc&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naknc&layout=compact&theme=radical&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=naknc&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
+🏆 Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=naknc&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1" /> </p>
+🌈 Currently Learning
+<p align="center"> <img src="https://img.shields.io/badge/Kubernetes-Exploring-06b6d4?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20in%20Business-Growing-d946ef?style=for-the-badge" /> <img src="https://img.shields.io/badge/Product%20Thinking-Improving-f43f5e?style=for-the-badge" /> <img src="https://img.shields.io/badge/System%20Integrations-Deep%20Dive-8b5cf6?style=for-the-badge" /> </p>
+┌───────────────────────────────────────────────┐
+│  CURRENTLY LEARNING                           │
+├───────────────────────────────────────────────┤
+│  > Kubernetes fundamentals                    │
+│  > AI use cases in business processes         │
+│  > Product thinking & better prioritization   │
+│  > Deeper API and integration workflows       │
+└───────────────────────────────────────────────┘
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/naknc/naknc/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
+✨ Pinned Repo Vitrine
+<p align="center"> <a href="https://github.com/naknc/Flask-Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=naknc&repo=Flask-Project&theme=radical&hide_border=true" /> </a> <a href="https://github.com/naknc/K8s-Monitoring-Stack-with-Helm"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=naknc&repo=K8s-Monitoring-Stack-with-Helm&theme=radical&hide_border=true" /> </a> </p> <p align="center"> <a href="https://github.com/naknc/AdventofCode2023"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=naknc&repo=AdventofCode2023&theme=radical&hide_border=true" /> </a> <a href="https://github.com/naknc/Corporate-Website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=naknc&repo=Corporate-Website&theme=radical&hide_border=true" /> </a> </p>
+🌟 What Excites Me
+Data-driven decisions
+API testing and integrations
+Process optimization
+Better collaboration between technical and non-technical teams
+AI and emerging technologies
+Clear documentation that actually helps people
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/nihanakinci"> <img src="https://img.shields.io/badge/LinkedIn-Nihan%20Akinci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@nihan.akinci.35"> <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://github.com/naknc"> <img src="https://img.shields.io/badge/GitHub-@naknc-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,50:8b5cf6,100:38bdf8&height=120&section=footer" /> </p> ```
