@@ -94,7 +94,7 @@ I’m always exploring ways to make systems, communication, and decision-making 
   <a href="https://www.linkedin.com/in/nihanakinci">
     <img src="https://img.shields.io/badge/LinkedIn-Nihan%20Akinci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@nihan.akinci.35">
+  <a href="https://medium.com/@nihanakinci">
     <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://github.com/naknc">
