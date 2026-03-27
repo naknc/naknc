@@ -19,24 +19,11 @@
 
 ## 💫 About Me
 
-``yaml
-name: Nihan Akinci
-role: Senior Business Analyst
-background: Computer Engineering
-focus:
-  - Business Analysis
-  - Requirement Gathering
-  - Data & Reporting
-  - API Analysis
-  - Process Improvement
-  - Agile Collaboration
-interests:
-  - Artificial Intelligence
-  - Product Thinking
-  - Emerging Technologies
-  - System Integrations
-I enjoy bridging the gap between business and technology.
-My favorite part of the job is turning complex requirements, messy processes, and scattered expectations into clear, structured, and practical solutions.
+I’m **Nihan Akinci**, a **Senior Business Analyst** with a background in **Computer Engineering**, passionate about connecting business needs with technology.
+
+I like turning complex requirements into clear documentation, practical workflows, and actionable solutions. My interests include **business analysis, data, reporting, API analysis, process improvement, agile collaboration, and AI-driven technologies**.
+
+I’m always exploring ways to make systems, communication, and decision-making more effective.
 
 ⚡ Tech Playground
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,docker,kubernetes,git,github,vscode,postgres" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/Agile-22c55e?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scrum-8b5cf6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Business%20Analysis-e11d48?style=for-the-badge" /> </p>
